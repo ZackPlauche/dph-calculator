@@ -9,10 +9,10 @@
             <span class="hidden sm:inline">DollarPerHour</span>
             <span class="sm:hidden">DPH</span>
           </span> 
-          Calculator
+          Calc<span class="hidden sm:inline">ulator</span>
         </div>
 
-        <ThemeIcon  />
+        <ThemeIcon class="tap-highlight-none" />
       </div>
   </div>
 </template>
